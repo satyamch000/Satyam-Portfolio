@@ -355,7 +355,7 @@ span:hover{
     .contact-left p i {
         color: lightseagreen;
         margin-right: 25px;
-        font-size: 35px;
+        font-size: 22px;
     }
 
     .contact-left a:hover {
@@ -382,7 +382,7 @@ span:hover{
     }
 
     .contact-right {
-        flex-basis: 90%;
+        flex-basis: 70%;
     }
 
     footer{
