@@ -88,13 +88,13 @@ nav ul li a:hover {
 
 span{
     color: lightseagreen;
-    transition: 1.2s ;
+    transition: 0.8s ;
 }
 
 span:hover{
     color: rgb(149, 243, 238);
-    font-size: 50px;
-    transition: 1.2s ;
+    font-size: 45px;
+    transition: 0.8s ;
 }
 
 #home p{
