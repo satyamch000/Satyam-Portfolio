@@ -1,0 +1,75 @@
+#nav{
+    flex-direction: column;
+}
+
+.images{
+   flex-direction: column;
+   right: 0%;
+}
+
+.images img{
+    flex-direction: column;
+}
+
+.shape{
+    transform: rotate(90deg);
+    padding-bottom: 200px;
+    margin-top: 35px;
+
+}
+
+.image{
+    height: 270px;
+    margin-top: 340px;
+    margin-left: 100px;
+}
+
+#home{
+    flex-direction: column;
+}
+
+#home h1{
+    padding-top: 550px;
+    margin-bottom: 30px;
+}
+
+#education ul,#skill ul{
+    padding-left: 25px;
+}
+
+.study{
+    padding: 35px 0 0 20px;
+}
+
+#experience p{
+    letter-spacing: 1px;
+    font-size: 30px;
+    line-height: 60px;
+    padding: 85px 0 85px 20px;
+}
+
+#service {
+    flex-direction: column;
+}
+
+#service .box{
+    padding: 14px;
+    margin: 10px 15px;
+}
+
+#service .box img {
+    height: 100px;
+    width: 150px;
+}
+
+#contact-box{
+    flex-direction: column; 
+}
+
+.contact-left {
+    padding-left: 10px;
+}
+
+.contact-right {
+    padding-left: 10px;
+}
